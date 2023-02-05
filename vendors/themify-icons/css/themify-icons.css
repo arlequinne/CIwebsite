@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'themify';
-	src:url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.eot?-fvbane");
-	src:url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.eot?#iefix-fvbane") format("embedded-opentype"),
-		url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.woff?-fvbane") format("woff"),
-		url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.ttf?-fvbane") format("truetype"),
-		url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.svg?-fvbane#themify") format("svg");
+	src:url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.eot");
+	src:url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.eot") format("embedded-opentype"),
+		url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.woff") format("woff"),
+		url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.ttf") format("truetype"),
+		url("https://github.com/arlequinne/CIwebsite/blob/0cb67b5406fd5a2f9142e0d962e9a84a0caf7fae/vendors/themify-icons/fonts/themify.svg") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
